@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://example.com/book1-cover.jpg",
+        "title": "The Mystery of the Lost Key",
+        "author": "Alice Smith",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time_minutes": 150,
+        "hashtags": [
+            "mystery",
+            "adventure",
+            "detective"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://example.com/book2-cover.jpg",
+        "title": "Fantasy Quest: The Enchanted Realm",
+        "author": "John Doe",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2023-09-16",
+        "reading_time_minutes": 180,
+        "hashtags": [
+            "fantasy",
+            "magic",
+            "quest"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://example.com/book3-cover.jpg",
+        "title": "Cooking Adventures: Gourmet Delights",
+        "author": "Emily Johnson",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2023-09-17",
+        "reading_time_minutes": 105,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://example.com/book4-cover.jpg",
+        "title": "Tech Wizards: Coding and Robotics",
+        "author": "David Brown",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2023-09-18",
+        "reading_time_minutes": 135,
+        "hashtags": [
+            "technology",
+            "coding",
+            "robots"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://example.com/book5-cover.jpg",
+        "title": "Historical Journeys: Tales of Ancient Times",
+        "author": "Sarah Green",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2023-09-19",
+        "reading_time_minutes": 240,
+        "hashtags": [
+            "history",
+            "ancient",
+            "exploration"
+        ]
+    }
+]
